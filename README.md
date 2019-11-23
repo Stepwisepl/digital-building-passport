@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Fontawesome 
+You need to specify your API key to load fontawesome icons like this:
+```
+npm config set "//npm.fontawesome.com/:_authToken" here-goes-the-key
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
