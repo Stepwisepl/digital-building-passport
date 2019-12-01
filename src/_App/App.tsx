@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Switch } from "react-router";
-import Home from "./_Components/Home/Home";
-import Map from "./_Components/Map/Map";
-import SideNavbar from "./_Routes/SideNavbar/SideNavbar";
+import Home from "../_Routes/Home/Home";
+import Map from "../_Routes/Map/Map";
+import SideNavbar from "./SideNavbar/SideNavbar";
 import "./App.css";
 
 const App: React.FC = () => {

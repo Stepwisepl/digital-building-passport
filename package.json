@@ -43,6 +43,9 @@
   },
   "devDependencies": {
     "@fortawesome/fontawesome-pro": "^5.11.2",
+    "@fortawesome/pro-light-svg-icons": "^5.11.2",
+    "@fortawesome/pro-solid-svg-icons": "^5.11.2",
+    "@testing-library/react": "^9.3.2",
     "@types/react-router-dom": "^5.1.2",
     "prettier": "^1.19.1",
     "tslint": "^5.20.1",
