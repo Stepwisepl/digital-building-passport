@@ -9,5 +9,6 @@ export enum FontIconType {
 }
 
 export enum IconName {
-  Home = "home-lg-alt"
+  Home = "home-lg-alt",
+  MapMarker = "map-marker-alt"
 }
