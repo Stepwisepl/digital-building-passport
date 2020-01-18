@@ -8,7 +8,6 @@ import { Statistics } from "../_Routes/Statistics/Statistics";
 import { Renovations } from "../_Routes/Renovations/Renovations";
 import { Services } from "../_Routes/Services/Services";
 import { SideNavbar } from "./SideNavbar/SideNavbar";
-import "./App.css";
 import { globalStyles } from "./globalStyles";
 
 const Scene = styled.div`

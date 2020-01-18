@@ -25,3 +25,8 @@ export const getIconData = (element: HTMLElement): IIconData => {
     iconName
   };
 };
+
+export const findIconData = (element: HTMLElement) => {
+  const icon = element.querySelector("i");
+  return icon && getIconData(icon);
+};
